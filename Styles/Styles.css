@@ -3,6 +3,10 @@
     margin: 0;
    
 }
+a{
+    text-decoration: none !important;
+    
+}
 header{
     border-bottom: 1px solid rgba(100,100,100,.8);
     margin-bottom: 20px ;
@@ -37,6 +41,5 @@ header h1{
 }
 
 #sidebar a {
-    text-decoration: none;
     color: #fff;
 }
