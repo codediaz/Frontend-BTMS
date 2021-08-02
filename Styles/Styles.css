@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+#sidebar{
+    position:fixed;
+    width: 200px;
+    height: 100%;
+    background-color: #000;
+}
+
+#sidebar ul li {
+    color: rgba(230,230,230,.9);
+    text-align: center;
+}
