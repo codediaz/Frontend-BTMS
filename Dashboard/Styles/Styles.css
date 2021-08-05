@@ -9,6 +9,9 @@ body{
     font-weight: 300;
     color: var(--primary);
 }
+a:hover{
+    text-decoration: none
+}
 #sidebar-container{
     min-height: 100vh;
 }
