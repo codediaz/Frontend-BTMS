@@ -9,6 +9,10 @@ body{
     font-weight: 300;
     color: var(--primary);
 }
+.btn-search{
+    right: 5px;
+
+}
 a:hover{
     text-decoration: none
 }
@@ -23,3 +27,8 @@ a:hover{
 }
 
 .bg-primary{ background-color: var(--primary) !important;}
+.bg-light{ background-color: var(--light)!important;}
+
+.avatar{
+    width: 35px;
+}
